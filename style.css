@@ -79,7 +79,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url('./bg-image.jpg')
+    background-image: url('/svg/bg-image.jpg')
    
 }
 
